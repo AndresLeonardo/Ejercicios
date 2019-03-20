@@ -16,7 +16,7 @@ public class Ejercicios {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Mi primer commit en Netbeans");
+        System.out.println("Mi primer commit en Netbeans + un intento fallido de prueba");
     }
     
 }
